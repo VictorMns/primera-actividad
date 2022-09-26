@@ -2,3 +2,4 @@
 2.Hacerlo remoto clonándolo en github desktop
 3.Guardar el bloc de notas con los pasos en un archivo con un nombre con .txt
 4. CAMBIO DEL LOCAL AL REMOTO
+5. CAMBIO DEL REMOTO AL LOCAL
