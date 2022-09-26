@@ -1,3 +1,4 @@
 1.Crear un nuevo repositorio
 2.Hacerlo remoto clonándolo en github desktop
 3.Guardar el bloc de notas con los pasos en un archivo con un nombre con .txt
+c
